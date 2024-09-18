@@ -1,0 +1,11 @@
+# Jupyter notebooks
+ipykernel
+
+# LLamaindex stuff
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-ollama
+llama-index-readers-database
+
+# gui
+tqdm
